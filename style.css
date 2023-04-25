@@ -38,7 +38,7 @@ a:link {
     margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: auto;
-    border-style: inset;
+    border-style: none;
     border-width: 0px;
   }
   hr.show{
@@ -50,7 +50,3 @@ a:link {
     border-style: inset;
     border-width: 5px;
   }
-audio{
-  width:auto;
-  margin:auto
-}
